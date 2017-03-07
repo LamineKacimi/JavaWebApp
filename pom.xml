@@ -15,5 +15,8 @@
         </dependency>
     </dependencies>
 
-    
+    <packaging>jar</packaging>
+    <build>
+        <testSourceDirectory>src/test/java</testSourceDirectory>
+    </build>
 </project>
