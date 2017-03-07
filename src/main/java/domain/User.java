@@ -6,7 +6,7 @@ import java.util.Date;
  * Created by lkacimi on 3/7/2017.
  */
 public class User {
-    private Integer id;
+    private int id;
     private String name;
     private String email;
     private Date birthDate;

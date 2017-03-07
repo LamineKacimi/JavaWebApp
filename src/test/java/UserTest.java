@@ -25,7 +25,7 @@ public class UserTest {
     public void getName() throws Exception {
         User u = new User();
         u.setName("abc");
-        assertEquals("abcd",u.getName());
+        assertEquals("abc",u.getName());
     }
 
 
