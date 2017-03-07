@@ -19,6 +19,8 @@ public class UserTest {
 
 
 
+
+
     @org.junit.Test
     public void getName() throws Exception {
         User u = new User();
